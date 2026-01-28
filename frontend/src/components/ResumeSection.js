@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { Link } from 'react-router-dom';
+
 
 // --- IMAGES FOR CAROUSEL (Experience Page) ---
 const carouselImages = [

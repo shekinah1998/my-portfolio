@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { HashRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, useLocation } from 'react-router-dom'; // Changed to HashRouter
 import Home from './components/Home';
 import Projects from './components/Projects';
 import ResumeSection from './components/ResumeSection';
